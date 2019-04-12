@@ -1,9 +1,6 @@
 # car-brand-prediction
 Recognize brand of car using deep learning (multiclass classification)
 
- INSTALLATION INSTRUCTION TO RUN BRAND PREDICTION
-
-
 NOTE: WE WILL CREATE VIRTUAL ENVIRONMENT AND INSTALL ALL DEPENDENCIES IN THAT SO THAT IT WILL NOT CHANGE/AFFECT YOUR ROOT DIRECTORY, JUST BY DELETEING THIS FOLDER YOU CAN DELETE ITS EXISTANCE.
 
 open windows 'cmd' typing cmd in search (not conda command window) as an administrator
@@ -16,7 +13,7 @@ open windows 'cmd' typing cmd in search (not conda command window) as an adminis
 3) Install virtual environment> pip install virtualenv
 4) test installation> virtualenv --version
 
-5) Download folder from the drive link and extract it to 'C' drive and rename this folder to 'Brand_prediction', if already renmaed then please ignore.
+5) Download folder from the drive link and extract it to 'C' drive and rename this folder to 'Brand_prediction', if already renamed then please ignore.
 At this time if you open 'Brand_prediction' folder it would contains some files and folder like dataset,examples,cnnmodel, classify.py,train.py, brandNet.model etc.
 
 
